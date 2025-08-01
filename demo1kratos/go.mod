@@ -5,6 +5,7 @@ go 1.22.8
 require (
 	github.com/go-kratos/kratos/v2 v2.8.4
 	github.com/google/wire v0.6.0
+	github.com/gorilla/handlers v1.5.2
 	github.com/yyle88/done v1.0.27
 	github.com/yyle88/rese v0.0.10
 	github.com/yyle88/runpath v1.0.23
@@ -16,6 +17,7 @@ require (
 
 require (
 	dario.cat/mergo v1.0.2 // indirect
+	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/go-kratos/aegis v0.2.0 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
