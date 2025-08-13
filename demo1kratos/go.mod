@@ -7,12 +7,13 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/gorilla/handlers v1.5.2
 	github.com/yyle88/done v1.0.27
-	github.com/yyle88/rese v0.0.10
+	github.com/yyle88/must v0.0.26
+	github.com/yyle88/rese v0.0.11
 	github.com/yyle88/runpath v1.0.23
 	go.uber.org/automaxprocs v1.6.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250106144421-5f5ef82da422
 	google.golang.org/grpc v1.71.1
-	google.golang.org/protobuf v1.36.6
+	google.golang.org/protobuf v1.36.7
 )
 
 require (
@@ -26,7 +27,6 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/yyle88/must v0.0.25 // indirect
 	github.com/yyle88/mutexmap v1.0.14 // indirect
 	github.com/yyle88/zaplog v0.0.26 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
